@@ -2,8 +2,8 @@
   "CONTRACT_ADDRESS": "0x127Ef14C8C47130d094EB576814086856453bc3B",
   "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x127ef14c8c47130d094eb576814086856453bc3b",
   "NETWORK": {
-    "NAME": "Polygon Tesnet",
-    "SYMBOL": "Matic",
+    "NAME": "Polygon",
+    "SYMBOL": "",
     "ID": 80001
   },
   "NFT_NAME": "PUNK Pablos",
