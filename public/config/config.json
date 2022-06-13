@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x127Ef14C8C47130d094EB576814086856453bc3B",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x127ef14c8c47130d094eb576814086856453bc3b",
+  "CONTRACT_ADDRESS": "0xF9eadBD715fa813e7f0AA2E59069E2b335b7Cc6F",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xf9eadbd715fa813e7f0aa2e59069e2b335b7cc6f",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
     "ID": 80001
   },
   "NFT_NAME": "PUNK Pablos",
-  "SYMBOL": "PBLS",
+  "SYMBOL": "NFT",
   "MAX_SUPPLY": 888,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0,08,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/punk-pablos-v2",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
